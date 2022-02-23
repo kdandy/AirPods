@@ -32,7 +32,7 @@ Code released under the MIT license.
 
 ## About the Author
 
-Cloudwarehouse is created by <a href="https://kdandy.com">jaden</a>.
+Responsive AirPods is created by <a href="https://kdandy.com">jaden</a>.
 
 ## Bugs and Issues
 
