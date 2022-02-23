@@ -18,7 +18,7 @@ git clone https://github.com/kdandy/airpods
 
 ## Demo and Documentation
 
-- Open the [demo page](https://cloudwarehouse.netlify.app)
+- Open the [demo page](https://pageairpods.netlify.app)
 - Open the [source code](http://github.com/kdandy/airpods)
 
 ### Note
